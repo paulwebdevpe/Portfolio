@@ -194,6 +194,9 @@ body{
     width: 100%;
     margin: 15px 0;
 }
+.skill-section h2{
+    color: #81C3D7;
+}
 .skill{
     display: flex;
     margin: 15px 0;
